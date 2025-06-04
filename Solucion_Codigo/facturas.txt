@@ -1,0 +1,4 @@
+Fernando Torres,11837374,0936764744,Loja;Pan-10-0.15-S-1.2,Pantal�n Negro (adulto)-3-20.0-N-60.0,Cortinas Azules-3-10.0-N-30.0;91.2;8.399999999999999;99.6;
+Jefferson Sanchez,11938374,092736464,Loja;Pan-20-0.15-S-2.4;2.4;0.0;2.4;
+Sebastian Armijos,1190398384,092736364,Loja;Cepillo de dientes-3-1.0-S-2.4000000000000004;2.4000000000000004;0.0;2.4000000000000004;
+Jefferson Sanchez,118362537484,096723848243,Loja;Pan-5-0.15-S-0.6,Pantal�n Negro (adulto)-2-20.0-N-40.0,Cepillo de dientes-3-1.0-S-2.4000000000000004;43.0;3.2;46.2;
